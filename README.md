@@ -7,7 +7,7 @@ This repository contains my daily Python practice, exercises, and projects as I 
 - Build strong programming fundamentals
 - Practice coding consistently
 - Upload progress daily on GitHub
-- 
+  
 ## Technologies Used
 
 - Python 3
